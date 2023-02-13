@@ -1,0 +1,1 @@
+Welcome to vagrant, this projects is completely optional 100% they said. But if however one want to undertake on the project you must not use sanbox for, you must have vagrant running on your local computer to enable you undertake the project, which is why I am doing it now because I find that challenging.
